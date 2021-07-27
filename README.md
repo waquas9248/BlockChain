@@ -1,6 +1,6 @@
-# Bitcoin python implementation 
+# BlockChain python implementation 
 
-This is a loose implementation/simulation in Python of my understanding of the technicalities of Bitcoin . 
+This is a loose implementation/simulation in Python of my understanding of the technicalities of Bitcoin which is based on BlockChain Technology . 
 
 These technicalities include how a block is verified and added to the chain, by verifying its legibility(transactions placed in it).
 
